@@ -1,0 +1,16 @@
+td {
+    border: 10px solid black;
+    height: 150px;
+    width: 150px;
+    font-size: 100px;
+    text-align: center;
+    
+}
+td:hover {
+    background-color: rgb(177, 193, 245);
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
